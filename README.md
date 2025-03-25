@@ -42,8 +42,8 @@ pip install -r requirements.txt
 
 1. 创建并编辑 `config/flarum_config.yaml`：
 ```yaml
-base_url: "https://your-forum.com"
-api_token: "your-api-token"    
+base_url: "https://your-forum.com" //flarum的地址
+api_token: "your-api-token"    //flarum管理员页面创建的apikey
 current_year_month: 2025-03   //这是记录最近更新页面的年月，一般修改为当前的年月
 archive_page_id: 32   //这是最新日期归档页面的id，批量创建归档页面后，找到这个id
 main_page_id: 1       //这是壁纸总览主页的id，需手动随便创建一个页面，找到这个id
