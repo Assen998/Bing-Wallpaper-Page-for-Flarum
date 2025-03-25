@@ -28,7 +28,8 @@ page-bingpaper/
 
 1. 克隆项目到本地：
 ```bash
-git clone https://github.com/yourusername/page-bingpaper.git
+git clone https://github.com/Assen998/Bing-Wallpaper-Page-for-Flarum.git
+
 cd page-bingpaper
 ```
 
