@@ -1,0 +1,11 @@
+# 基础HTTP请求库
+requests>=2.31.0
+
+# YAML文件处理
+pyyaml>=6.0.1
+
+# 类型提示支持（适用于Python 3.6+）
+typing-extensions>=4.9.0
+
+# 日期时间处理（已包含在Python标准库中，列出以表明依赖）
+python-dateutil>=2.8.2

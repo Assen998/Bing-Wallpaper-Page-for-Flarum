@@ -1,0 +1,6 @@
+# GitHub配置
+owner: niumoo  # GitHub用户名
+repo: bing-wallpaper  # 仓库名称
+path: /zh-cn/README.md  # 文件路径
+branch: main  # 分支名称
+base_path: "zh-cn/picture"  # 图片路径
