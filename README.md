@@ -59,10 +59,7 @@ base_path: "zh-cn/picture"  # 图片路径
 ```
 
 ## 使用方法
-flarum必须安装插件 Pages by FriendsOfFlarum
-Installation
-
-Use Bazaar or install manually with composer:
+flarum必须安装插件 `Pages by FriendsOfFlarum`
 ```
 composer require fof/pages
 ```
