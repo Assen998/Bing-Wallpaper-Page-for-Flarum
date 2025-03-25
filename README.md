@@ -1,6 +1,6 @@
 # Bing Wallpaper Page for Flarum
 
-一个用于管理必应每日壁纸页面的Python工具，支持从GitHub仓库同步内容到Flarum论坛页面。
+一个用于管理中国区必应每日壁纸页面的Python工具，支持从GitHub仓库同步内容到Flarum论坛页面。
 
 ## 功能特点
 
